@@ -45,5 +45,6 @@ flutter run
 
 | Cube View Example |
 |-------------------|
-| ![Preview](https://i.imgur.com/AbCdEfG.png](https://imgur.com/gallery/rubik-cube-ss-1t2w2ef)](https://imgur.com/a/1t2w2ef) |
+| ![Preview](https://i.imgur.com/XYZ123.png) |
+
 
