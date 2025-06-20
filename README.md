@@ -1,15 +1,47 @@
-# Assignment 3
+This is a simple Flutter app that simulates a 2x2 Rubik’s Cube. Users can rotate the top and bottom faces of the cube and visualize the changes on the cube in real-time.
 
-Name: Hazmi Bin Badrunsham
-Matric No: 2216595
+📱 Features
+Visually displays all 6 faces of a 2x2 Rubik's Cube.
 
-//I did modify the logic for 2x2 rubic cube rotation as such adding:
+Buttons to rotate the top and bottom layers.
 
-1.  // Rotate top face //
-    // Rotate the top face (faces[4]) clockwise:
-    // The bottom-left becomes the top-left, top-left becomes the top-right,
-    // bottom-right becomes bottom-left, and top-right becomes bottom-right.
-    List<Color> tempTop = [...faces[4]];
-    faces[4] = [tempTop[2], tempTop[0], tempTop[3], tempTop[1]];
+Real-time updates of cube colors after each move.
 
-2. Modifying the layout using grid and Gridview.builder for cleaner layout.
+Simple and intuitive UI.
+
+🛠️ Built With
+Flutter
+
+Dart
+
+Material UI Widgets
+
+🚀 Getting Started
+Prerequisites
+Make sure you have Flutter installed:
+
+bash
+Copy
+Edit
+flutter --version
+Run the app
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/rubiks-cube-2x2.git
+cd rubiks-cube-2x2
+Get dependencies:
+
+bash
+Copy
+Edit
+flutter pub get
+Run the app:
+
+bash
+Copy
+Edit
+flutter run
+📸 Screenshots
