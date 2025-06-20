@@ -1,4 +1,6 @@
-# 🧊 2x2 Rubik's Cube Simulator
+- Hazmi Bin Badrunsham, 2216595
+
+# Assignment 3: 2x2 Rubik's Cube Simulator
 
 A simple Flutter app that simulates a **2x2 Rubik’s Cube**. Users can rotate the top and bottom faces and observe the color changes on each face in real-time.
 
