@@ -1,47 +1,30 @@
-This is a simple Flutter app that simulates a 2x2 Rubik’s Cube. Users can rotate the top and bottom faces of the cube and visualize the changes on the cube in real-time.
+# 🧊 2x2 Rubik's Cube Simulator
 
-📱 Features
-Visually displays all 6 faces of a 2x2 Rubik's Cube.
+A simple Flutter app that simulates a **2x2 Rubik’s Cube**. Users can rotate the top and bottom faces and observe the color changes on each face in real-time.
 
-Buttons to rotate the top and bottom layers.
+---
 
-Real-time updates of cube colors after each move.
+## 📱 Features
 
-Simple and intuitive UI.
+- Displays all 6 faces of a 2x2 Rubik's Cube
+- Rotate **Top** and **Bottom** layers with buttons
+- Real-time color updates on cube faces
+- Clean and intuitive Material UI
 
-🛠️ Built With
-Flutter
+---
 
-Dart
+## 🛠️ Built With
 
-Material UI Widgets
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-🚀 Getting Started
-Prerequisites
-Make sure you have Flutter installed:
+---
 
-bash
-Copy
-Edit
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Flutter installed. You can check with:
+
+```bash
 flutter --version
-Run the app
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/rubiks-cube-2x2.git
-cd rubiks-cube-2x2
-Get dependencies:
-
-bash
-Copy
-Edit
-flutter pub get
-Run the app:
-
-bash
-Copy
-Edit
-flutter run
-📸 Screenshots
