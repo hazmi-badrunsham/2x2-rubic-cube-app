@@ -28,3 +28,13 @@ Make sure you have Flutter installed. You can check with:
 
 ```bash
 flutter --version
+
+# Clone the repository
+git clone https://github.com/your-username/rubiks-cube-2x2.git
+cd rubiks-cube-2x2
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
